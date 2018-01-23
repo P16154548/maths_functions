@@ -11,6 +11,8 @@ int main()
 	{
 		case '+' : r = a + b;
 		break;
+		case '-' : r = a - b;
+    		break;
 	}
 	printf("%f", r);
 	return 0;
