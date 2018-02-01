@@ -18,6 +18,8 @@ int main()
 		case '*' : r = a * b;
     		break;
 	}
+	printf("result is:");
 	printf("%f", r);
+	printf("This is the testing branch");
 	return 0;
 }
