@@ -18,6 +18,7 @@ int main()
 		case '*' : r = a * b;
     		break;
 	}
+	printf("result is:");
 	printf("%f", r);
 	return 0;
 }
